@@ -13,6 +13,7 @@ o There are four categories to factor in when determining a parcel’s
 ﬁnal cost, each with two options based on their delivery
 preferences. (Use an if-else statement based on the choice they
 make.)
+    
     ▪ Air R0.36 per km or f reight R0.25 per km
     
     ▪ Full insurance R50.00 or limited insurance R25.00
